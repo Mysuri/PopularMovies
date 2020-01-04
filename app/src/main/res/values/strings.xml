@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="popular_movies_of">The most popular movies of</string>
+    <string name="btn_submit">Submit</string>
+    <string name="input_year">Year</string>
+    <string name="api_key">2d373112ca0b09d4cc58344942615570</string>
+    <string name="api_language">en-US</string>
+    <string name="detailed_overview">Overview</string>
+    <string name="detailed_release">Release:</string>
+</resources>
